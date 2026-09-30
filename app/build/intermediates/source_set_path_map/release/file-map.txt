@@ -1,0 +1,34 @@
+com.gyaneshflap.game.app-fragment-1.3.6-0 C:\Users\anas1.DESKTOP-V6ITJTR\.gradle\caches\transforms-4\1f72f14ced92ecaa5776575dbf57f1e4\transformed\fragment-1.3.6\res
+com.gyaneshflap.game.app-core-runtime-2.2.0-1 C:\Users\anas1.DESKTOP-V6ITJTR\.gradle\caches\transforms-4\2137ce38ebda55a63687f66ae9b0855d\transformed\core-runtime-2.2.0\res
+com.gyaneshflap.game.app-lifecycle-viewmodel-2.6.1-2 C:\Users\anas1.DESKTOP-V6ITJTR\.gradle\caches\transforms-4\24a961f939178255e690914146c71c17\transformed\lifecycle-viewmodel-2.6.1\res
+com.gyaneshflap.game.app-annotation-experimental-1.3.0-3 C:\Users\anas1.DESKTOP-V6ITJTR\.gradle\caches\transforms-4\3431c2f1a8d8ae52b23c80f2a0d0bcb1\transformed\annotation-experimental-1.3.0\res
+com.gyaneshflap.game.app-activity-1.8.0-4 C:\Users\anas1.DESKTOP-V6ITJTR\.gradle\caches\transforms-4\382115c044e5f7a82ce232cdbdf80a87\transformed\activity-1.8.0\res
+com.gyaneshflap.game.app-savedstate-1.2.1-5 C:\Users\anas1.DESKTOP-V6ITJTR\.gradle\caches\transforms-4\4396dea08f7fef26b0496a887882c262\transformed\savedstate-1.2.1\res
+com.gyaneshflap.game.app-emoji2-1.2.0-6 C:\Users\anas1.DESKTOP-V6ITJTR\.gradle\caches\transforms-4\446dcb565ba624b091720066db1df077\transformed\emoji2-1.2.0\res
+com.gyaneshflap.game.app-recyclerview-1.1.0-7 C:\Users\anas1.DESKTOP-V6ITJTR\.gradle\caches\transforms-4\4ebda02cdab253a054061a5b9d9882de\transformed\recyclerview-1.1.0\res
+com.gyaneshflap.game.app-lifecycle-livedata-2.6.1-8 C:\Users\anas1.DESKTOP-V6ITJTR\.gradle\caches\transforms-4\524a8a8fe04c89c277b4d325fffbc874\transformed\lifecycle-livedata-2.6.1\res
+com.gyaneshflap.game.app-transition-1.2.0-9 C:\Users\anas1.DESKTOP-V6ITJTR\.gradle\caches\transforms-4\5b8a46f6a76f132b95d5b31f434963f5\transformed\transition-1.2.0\res
+com.gyaneshflap.game.app-lifecycle-viewmodel-savedstate-2.6.1-10 C:\Users\anas1.DESKTOP-V6ITJTR\.gradle\caches\transforms-4\5ee2fea0eed1f8268e5104fff4b84117\transformed\lifecycle-viewmodel-savedstate-2.6.1\res
+com.gyaneshflap.game.app-lifecycle-runtime-2.6.1-11 C:\Users\anas1.DESKTOP-V6ITJTR\.gradle\caches\transforms-4\6997b91c5662c75c0437321b57cd4bee\transformed\lifecycle-runtime-2.6.1\res
+com.gyaneshflap.game.app-constraintlayout-2.1.4-12 C:\Users\anas1.DESKTOP-V6ITJTR\.gradle\caches\transforms-4\6e099b6c49494dd39b8d97ee03be7d92\transformed\constraintlayout-2.1.4\res
+com.gyaneshflap.game.app-viewpager2-1.0.0-13 C:\Users\anas1.DESKTOP-V6ITJTR\.gradle\caches\transforms-4\742d20e91d7a64e61e6f02fc0f87575c\transformed\viewpager2-1.0.0\res
+com.gyaneshflap.game.app-profileinstaller-1.3.0-14 C:\Users\anas1.DESKTOP-V6ITJTR\.gradle\caches\transforms-4\8a3d37ee385e6c84ba5e800b225df9e0\transformed\profileinstaller-1.3.0\res
+com.gyaneshflap.game.app-startup-runtime-1.1.1-15 C:\Users\anas1.DESKTOP-V6ITJTR\.gradle\caches\transforms-4\8a93480a1f2cae76b0def9e0c0bd74b5\transformed\startup-runtime-1.1.1\res
+com.gyaneshflap.game.app-coordinatorlayout-1.1.0-16 C:\Users\anas1.DESKTOP-V6ITJTR\.gradle\caches\transforms-4\8ff70c7327280c942b8c98fec7e6c011\transformed\coordinatorlayout-1.1.0\res
+com.gyaneshflap.game.app-cardview-1.0.0-17 C:\Users\anas1.DESKTOP-V6ITJTR\.gradle\caches\transforms-4\9ad5caefe7e6f9dcc8037547f1ccfc38\transformed\cardview-1.0.0\res
+com.gyaneshflap.game.app-core-1.12.0-18 C:\Users\anas1.DESKTOP-V6ITJTR\.gradle\caches\transforms-4\a09928384ec1935e808ab75bc8da5541\transformed\core-1.12.0\res
+com.gyaneshflap.game.app-appcompat-1.6.1-19 C:\Users\anas1.DESKTOP-V6ITJTR\.gradle\caches\transforms-4\aab7af3e5d36cf4acf79358de2256105\transformed\appcompat-1.6.1\res
+com.gyaneshflap.game.app-material-1.11.0-20 C:\Users\anas1.DESKTOP-V6ITJTR\.gradle\caches\transforms-4\aca6f50aaadf3c644acad7d529236800\transformed\material-1.11.0\res
+com.gyaneshflap.game.app-lifecycle-process-2.6.1-21 C:\Users\anas1.DESKTOP-V6ITJTR\.gradle\caches\transforms-4\b8c281f2c54a2dad61bc87c778b5cdea\transformed\lifecycle-process-2.6.1\res
+com.gyaneshflap.game.app-drawerlayout-1.1.1-22 C:\Users\anas1.DESKTOP-V6ITJTR\.gradle\caches\transforms-4\ba769afcf892eb7829d13593666736f5\transformed\drawerlayout-1.1.1\res
+com.gyaneshflap.game.app-emoji2-views-helper-1.2.0-23 C:\Users\anas1.DESKTOP-V6ITJTR\.gradle\caches\transforms-4\c6c51e6cb63ca0e8b599cdfea14e4b0f\transformed\emoji2-views-helper-1.2.0\res
+com.gyaneshflap.game.app-lifecycle-livedata-core-2.6.1-24 C:\Users\anas1.DESKTOP-V6ITJTR\.gradle\caches\transforms-4\d3a08c1925ae5c3dc2d29ddbbfb84d52\transformed\lifecycle-livedata-core-2.6.1\res
+com.gyaneshflap.game.app-appcompat-resources-1.6.1-25 C:\Users\anas1.DESKTOP-V6ITJTR\.gradle\caches\transforms-4\e78eb78eaaacb4addb114882ea0f69fb\transformed\appcompat-resources-1.6.1\res
+com.gyaneshflap.game.app-core-ktx-1.12.0-26 C:\Users\anas1.DESKTOP-V6ITJTR\.gradle\caches\transforms-4\f9cdc231dc2624f57ff24addfe5af717\transformed\core-ktx-1.12.0\res
+com.gyaneshflap.game.app-pngs-27 C:\owais imp folder\Gyanesh flap\app\build\generated\res\pngs\release
+com.gyaneshflap.game.app-resValues-28 C:\owais imp folder\Gyanesh flap\app\build\generated\res\resValues\release
+com.gyaneshflap.game.app-packageReleaseResources-29 C:\owais imp folder\Gyanesh flap\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.gyaneshflap.game.app-packageReleaseResources-30 C:\owais imp folder\Gyanesh flap\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.gyaneshflap.game.app-merged_res-31 C:\owais imp folder\Gyanesh flap\app\build\intermediates\merged_res\release
+com.gyaneshflap.game.app-main-32 C:\owais imp folder\Gyanesh flap\app\src\main\res
+com.gyaneshflap.game.app-release-33 C:\owais imp folder\Gyanesh flap\app\src\release\res

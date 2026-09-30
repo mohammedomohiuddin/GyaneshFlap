@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\anas1.DESKTOP-V6ITJTR\\.gradle\\daemon\\8.7\\com.gyaneshflap.game.app-merged_res-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\anas1.DESKTOP-V6ITJTR\\.gradle\\daemon\\8.7\\com.gyaneshflap.game.app-main-32:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.gyaneshflap.game.app-merged_res-31:/drawable_bg_polling_booth.png.flat",
+        "source": "com.gyaneshflap.game.app-main-32:/drawable/bg_polling_booth.png"
+    },
+    {
+        "merged": "C:\\Users\\anas1.DESKTOP-V6ITJTR\\.gradle\\daemon\\8.7\\com.gyaneshflap.game.app-merged_res-31:\\drawable-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\anas1.DESKTOP-V6ITJTR\\.gradle\\daemon\\8.7\\com.gyaneshflap.game.app-main-32:\\drawable-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\anas1.DESKTOP-V6ITJTR\\.gradle\\daemon\\8.7\\com.gyaneshflap.game.app-merged_res-31:\\drawable_gyanesh_character.png.flat",
+        "source": "C:\\Users\\anas1.DESKTOP-V6ITJTR\\.gradle\\daemon\\8.7\\com.gyaneshflap.game.app-main-32:\\drawable\\gyanesh_character.png"
+    },
+    {
+        "merged": "C:\\Users\\anas1.DESKTOP-V6ITJTR\\.gradle\\daemon\\8.7\\com.gyaneshflap.game.app-merged_res-31:\\drawable_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\anas1.DESKTOP-V6ITJTR\\.gradle\\daemon\\8.7\\com.gyaneshflap.game.app-main-32:\\drawable\\ic_launcher_foreground.png"
+    }
+]

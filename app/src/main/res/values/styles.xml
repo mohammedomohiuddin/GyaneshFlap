@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.GyaneshFlap" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary_yellow</item>
+        <item name="colorPrimaryVariant">@color/primary_yellow_dark</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.gyaneshflap.game.app-merged_res-31:/drawable_gyanesh_character.png.flat",
+        "source": "com.gyaneshflap.game.app-main-33:/drawable/gyanesh_character.png"
+    },
+    {
+        "merged": "com.gyaneshflap.game.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "com.gyaneshflap.game.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.gyaneshflap.game.app-merged_res-31:/drawable_ic_launcher_foreground.png.flat",
+        "source": "com.gyaneshflap.game.app-main-33:/drawable/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.gyaneshflap.game.app-merged_res-31:/drawable-v26_ic_launcher.xml.flat",
+        "source": "com.gyaneshflap.game.app-main-33:/drawable-v26/ic_launcher.xml"
+    }
+]

@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color parchment_bg
+color parchment_border
+color primary_yellow
+color primary_yellow_dark
+color purple_200
+color purple_500
+color purple_700
+color red_accent
+color roach_brown
+color sky_blue
+color teal_200
+color teal_700
+color white
+color wood_dark
+color wood_light
+drawable gyanesh_character
+drawable ic_launcher
+drawable ic_launcher_foreground
+id gameView
+layout activity_main
+string app_name
+string subtitle
+style Theme.GyaneshFlap
